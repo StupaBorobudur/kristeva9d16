@@ -1,0 +1,26 @@
+body{
+    margin : 5px;
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    background-color: rgb(238, 209, 193);
+    width: 100%; 
+}
+
+nav a{
+    text-decoration: none;
+    font-family:Franklin Gothic bold; color:rgb(95, 10, 60); font-style:oblique;
+    padding : 10px 15px;
+    float: right;
+}
+
+nav a:hover {
+    background-color : rgb(204, 146, 146);
+}
+
+.banner{
+    float:right;
+    color:rgb(216, 121, 121);
+    font-family:Impact; font-size:x-large; font-style: italic;
+}
